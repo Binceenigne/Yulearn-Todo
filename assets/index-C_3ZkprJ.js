@@ -3,8 +3,8 @@ const __vite__mapDeps = (
   m = __vite__mapDeps,
   d = m.f ||
     (m.f = [
-      "./assets/WelcomeScreen-D6-_F7jF.js",
-      "./assets/WelcomeScreen-D5fmyFRB.css",
+      "WelcomeScreen-D6-_F7jF.js",
+      "WelcomeScreen-D5fmyFRB.css",
     ])
 ) => i.map((i) => d[i]);
 (function () {
