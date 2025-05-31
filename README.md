@@ -1,9 +1,17 @@
 # 鱼跃Todo - 番茄工作法应用
 
+<div align="center">
+
+![鱼跃Todo应用图标](./images/todo-app.png)
+
 一个基于Vue 3的时间管理应用，结合番茄工作法和课表管理，帮助学生高效管理学习时间。
 
 ![License](https://img.shields.io/badge/License-DSL--1.0-blue.svg)
 ![Vue](https://img.shields.io/badge/Vue-3.0-green.svg)
+
+**[🌐 在线演示](https://binceenigne.github.io/Yulearn-Todo/)**
+
+</div>
 
 ## ✨ 主要功能
 
@@ -21,8 +29,8 @@
 
 ```powershell
 # 克隆项目
-git clone <your-repo-url>
-cd pomodoro-app
+git clone https://github.com/Binceenigne/Yulearn-Todo.git
+cd Yulearn-Todo
 
 # 安装依赖
 npm install
