@@ -18599,7 +18599,7 @@ const H0 = gt(u0, [
       name: "Welcome",
       component: () =>
         qp(
-          () => import("./WelcomeScreen-D6-_F7jF.js"),
+          () => import("WelcomeScreen-D6-_F7jF.js"),
           __vite__mapDeps([0, 1])
         ),
       meta: { hideTabBar: !0 },
