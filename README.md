@@ -2,9 +2,12 @@
 
 <div align="center">
 
-![鱼跃Todo应用图标](./images/todo-app.png)
+<div style="width: 200px;">
 
-一个基于Vue 3的时间管理应用，结合番茄工作法和课表管理，帮助学生高效管理学习时间。
+![鱼跃Todo应用图标](./svg/iconblue.svg)
+
+</div>
+一个基于Vue 3开发的时间管理应用，结合番茄工作法和AI功能，为学生提供课表管理和课程规划、任务管理等功能，帮助学生高效管理学习时间。
 
 ![License](https://img.shields.io/badge/License-DSL--1.0-blue.svg)
 ![Vue](https://img.shields.io/badge/Vue-3.0-green.svg)
