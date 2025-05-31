@@ -1,0 +1,121 @@
+DJYX Strict License 1.0 (DSL-1.0)
+
+Copyright (c) 2025 DJYX Studio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software under the following restrictions and conditions:
+
+1. DEFINITIONS
+
+"Software" means the source code, object code, documentation, art assets, 
+audio files, and any other materials provided under this license.
+
+"Commercial Use" means use of the Software for monetary gain, competitive 
+advantage, or in a commercial product or service.
+
+"Art Assets" means all visual, audio, and multimedia content including but 
+not limited to images, sounds, music, videos, fonts, icons, and design elements.
+
+"Derivative Work" means any work based upon or derived from the Software.
+
+2. PERMISSIONS
+
+Subject to the conditions below, you are granted permission to:
+- Use the Software for personal, educational, and non-commercial purposes
+- Study and modify the source code for learning purposes
+- Create derivative works for non-commercial use
+
+3. CONDITIONS AND RESTRICTIONS
+
+3.1 COPYLEFT REQUIREMENT
+All derivative works must be licensed under DSL-1.0. You may not relicense 
+the Software or any derivative work under any other license.
+
+3.2 COMMERCIAL USE RESTRICTION
+Commercial use of the Software requires written approval from the copyright 
+holder. You must:
+- Submit a detailed application to djyxstudio@163.com
+- Provide at least 30 days advance notice
+- Wait for explicit written approval before commercial use
+- Comply with all terms specified in the approval
+
+3.3 ART ASSETS PROHIBITION
+Art Assets included with the Software are strictly prohibited from use in 
+any form, including but not limited to:
+- Reproduction or distribution
+- Modification or derivative creation
+- Commercial or non-commercial use
+- Extraction or conversion to other formats
+
+3.4 SOURCE CODE ACCESS CONTROL
+Public repositories may show only partial source code. Access to complete 
+source code requires:
+- Justified application explaining intended use
+- Approval from the copyright holder
+- Compliance with access terms
+
+3.5 ATTRIBUTION REQUIREMENT
+You must include this license notice and copyright statement in all copies 
+or substantial portions of the Software.
+
+4. OBLIGATIONS
+
+If you distribute the Software or any derivative work, you must:
+- Include this complete license text
+- Provide clear attribution to the original authors
+- Make the complete source code available under DSL-1.0
+- Clearly indicate any modifications made
+
+5. COMMERCIAL USE APPLICATION
+
+To apply for commercial use permission, send an email to djyxstudio@163.com 
+with the following information:
+
+- Project name and detailed description
+- Intended commercial use and business model
+- Technical implementation details
+- Timeline and distribution plans
+- Contact information and business registration
+
+Applications will be reviewed within 30-60 days. Approval is at the sole 
+discretion of the copyright holder.
+
+6. TERMINATION
+
+This license terminates automatically if you violate any terms. Upon 
+termination, you must immediately:
+- Cease all use of the Software
+- Delete all copies in your possession
+- Discontinue distribution of derivative works
+
+7. ENFORCEMENT
+
+Violation of this license may result in:
+- Immediate license termination
+- Legal action for copyright infringement
+- Claims for damages and legal costs
+- Permanent exclusion from future licensing
+
+8. DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
+
+9. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws 
+of the jurisdiction where the copyright holder resides.
+
+---
+
+For questions about this license or to request permissions, contact:
+Email: djyxstudio@163.com
+Subject: DSL-1.0 License Inquiry - [Your Project Name]
+
+SPDX-License-Identifier: DSL-1.0

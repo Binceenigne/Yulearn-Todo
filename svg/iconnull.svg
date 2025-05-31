@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 4096 4096">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #2267f3;
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-linejoin: round;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 288px;
+      }
+
+      .cls-3 {
+        stroke: #449fff;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #4f5cdc;
+      }
+
+      .cls-4 {
+        stroke-width: 155.08px;
+      }
+
+      .cls-5 {
+        fill: #2267f3;
+        stroke-width: 1px;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_1" data-name="组 1" class="cls-1">
+    <path id="直线_4" data-name="直线 4" class="cls-2" d="M3626.75,1671.22l0.81,0.81L1608.08,3691.51l-0.81-.81ZM2363.42,730.637l0.82,0.815L893.429,2202.26l-0.815-.81Z"/>
+    <path id="直线_3" data-name="直线 3" class="cls-3" d="M1183.09,2980.65l0.81,0.82L796.6,3368.76l-0.815-.81Zm-129.1-1825.83,0.81,0.81L469.246,1741.19l-0.815-.81ZM1494.59,705l0.81,0.815-2.58,2.583-0.82-.815ZM515.048,2617.53l-0.815-.82,0.305-.3,0.815,0.81ZM2593.72,3531.19l-0.82-.81,1.06-1.06,0.81,0.82Z"/>
+    <path id="直线_5" data-name="直线 5" class="cls-4" d="M3627.14,2699.01l0.81,0.82L3258.2,3069.58l-0.81-.82Zm-367.74,2.71,0.81-.82,368.8,368.8-0.82.81Zm-191.38-2363.7h1v529h-1v-529Zm-263,264v-1h529v1h-529Z"/>
+    <path id="形状_1" data-name="形状 1" class="cls-5" d="M974.861,2528.06s141.459,117.48,456.459,169.44c3.82,124.57,110.7,401.16,145.24,424.18,164.23-148.67,188.71-379.36,188.46-565.66,1189.88-21.95,1633.41-1214.74,1479.45-1407.71-191.4-197.536-1481.61,45.07-1669.07,1226.44C1114.23,2351.37,974.861,2528.06,974.861,2528.06ZM2850,1323c54.12,0,98,44.32,98,99s-43.88,99-98,99-98-44.32-98-99S2795.88,1323,2850,1323Zm-402.61,134.18s99.95,243.16,357.55,336.16C2443.06,1822.62,2447.39,1457.18,2447.39,1457.18Z"/>
+  </g>
+</svg>

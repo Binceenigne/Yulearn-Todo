@@ -1,0 +1,45 @@
+[
+    {
+        "id": "1747590420818",
+        "maintask": "复习备考",
+        "description": "准备21日的考试",
+        "duration": 60,
+        "date": "2025-05-19",
+        "begintime": "202505190930",
+        "endtime": "202505191030",
+        "Restfrequency": null,
+        "steps": [
+            {
+                "task": "复习老师上课讲的内容",
+                "description": "复习老师上课画的ppt和书上的重点",
+                "duration": 25,
+                "isrest": false,
+                "begintime": "202505190930",
+                "endtime": "202505190955",
+                "completed": false
+            },
+            {
+                "task": "休息一会儿",
+                "description": "看看远处的太阳",
+                "duration": 5,
+                "isrest": false,
+                "begintime": "202505190955",
+                "endtime": "202505191000",
+                "completed": false
+            },
+            {
+                "task": "复习学习通的课后习题",
+                "description": "",
+                "duration": 30,
+                "isrest": false,
+                "begintime": "202505191000",
+                "endtime": "202505191030",
+                "completed": false
+            }
+        ],
+        "completed": false,
+        "createdAt": "2025-05-18T17:47:00.818Z",
+        "completedPomodoros": null,
+        "completedAt": null
+    }
+]
