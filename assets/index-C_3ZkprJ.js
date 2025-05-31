@@ -9237,7 +9237,7 @@ const gt = (t, e) => {
       }
       async function Re() {
         try {
-          const O = await fetch("/data/all_timetables.json");
+          const O = await fetch("./data/all_timetables.json");
           if (!O.ok) throw new Error(`HTTP error! Status: ${O.status}`);
           f.value = await O.json();
           const V = [...new Set(f.value.map((le) => le.院系))];
@@ -11275,7 +11275,7 @@ const Kp = gt(Hp, [["render", zp]]),
     audio: null,
     initAudio(t = "default.mp3") {
       this.audio || ((this.audio = new Audio()), (this.audio.preload = "auto"));
-      const e = t.startsWith("alarm/") ? `/sounds/${t}` : `/sounds/${t}`;
+      const e = t.startsWith("alarm/") ? `./sounds/${t}` : `./sounds/${t}`;
       this.audio.src !== location.origin + e && (this.audio.src = e);
     },
     checkNotificationSupport() {
@@ -11303,7 +11303,7 @@ const Kp = gt(Hp, [["render", zp]]),
     sendNotification(t, e = {}) {
       return this.checkNotificationSupport() &&
         Notification.permission === "granted"
-        ? new Notification(t, { icon: "/svg/iconnull.svg", ...e })
+        ? new Notification(t, { icon: "./svg/iconnull.svg", ...e })
         : null;
     },
     vibrate(t = [200, 100, 200]) {
@@ -11605,8 +11605,8 @@ const mm = gt(sm, [
                 sound: !0,
                 browserNotification: o.browserNotificationEnabled,
                 notifyOptions: {
-                  icon: "/svg/iconnull.svg",
-                  badge: "/svg/iconnull.svg",
+                  icon: "./svg/iconnull.svg",
+                  badge: "./svg/iconnull.svg",
                 },
                 settings: {
                   soundEnabled: o.soundEnabled,
@@ -11657,8 +11657,8 @@ const mm = gt(sm, [
             sound: !0,
             browserNotification: o.browserNotificationEnabled,
             notifyOptions: {
-              icon: "/svg/iconnull.svg",
-              badge: "/svg/iconnull.svg",
+              icon: "./svg/iconnull.svg",
+              badge: "./svg/iconnull.svg",
             },
             settings: {
               soundEnabled: o.soundEnabled,
@@ -17987,7 +17987,7 @@ const c0 = gt(r1, [
         const ne = `20${X[0]}`;
         try {
           (n.value = !0), (o.value = null);
-          const ue = await fetch("/data/all_timetables.json");
+          const ue = await fetch("./data/all_timetables.json");
           if (!ue.ok) throw new Error(`HTTP error! status: ${ue.status}`);
           const me = (await ue.json()).find(
             (ke) => ke.院系 === H && ke.年级 === ne && ke.课表.班级 === te

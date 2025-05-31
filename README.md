@@ -4,7 +4,7 @@
 
 <div style="width: 200px;">
 
-![鱼跃Todo应用图标](./svg/iconblue.svg)
+![鱼跃Todo应用图标](../svg/iconblue.svg)
 
 </div>
 一个基于Vue 3开发的时间管理应用，结合番茄工作法和AI功能，为学生提供课表管理和课程规划、任务管理等功能，帮助学生高效管理学习时间。
